@@ -4,5 +4,5 @@ please make sure you have .net 5 installed
 
 ## migration
 please run 
-### Update-Database
+### `Update-Database`
 to make the api ready
